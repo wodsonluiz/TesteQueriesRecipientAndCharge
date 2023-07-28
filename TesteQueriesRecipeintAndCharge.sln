@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteQueriesRecipeintAndCharge", "TesteQueriesRecipeintAndCharge.csproj", "{EA1A8E16-DB74-49DF-BCB8-10C33D9D37D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteQueriesRecipientAndCharge.Core", "..\TesteQueriesRecipientAndCharge.Core\TesteQueriesRecipientAndCharge.Core.csproj", "{FBD235DC-251B-444A-BE85-821A82E63326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA1A8E16-DB74-49DF-BCB8-10C33D9D37D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA1A8E16-DB74-49DF-BCB8-10C33D9D37D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA1A8E16-DB74-49DF-BCB8-10C33D9D37D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA1A8E16-DB74-49DF-BCB8-10C33D9D37D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBD235DC-251B-444A-BE85-821A82E63326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD235DC-251B-444A-BE85-821A82E63326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD235DC-251B-444A-BE85-821A82E63326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD235DC-251B-444A-BE85-821A82E63326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {174ECC71-AE37-462E-B552-78B740AB841C}
+	EndGlobalSection
+EndGlobal
